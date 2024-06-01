@@ -1,0 +1,13 @@
+com/mycompany/bibliotecaumg/controlador/conexion/Conexion$ConnectionDBA.class
+com/mycompany/bibliotecaumg/modelo/Prestamo.class
+com/mycompany/bibliotecaumg/inter/CRUDController.class
+com/mycompany/bibliotecaumg/modelo/Empleado.class
+com/mycompany/bibliotecaumg/controlador/conexion/Conexion.class
+com/mycompany/bibliotecaumg/modelo/Cliente.class
+com/mycompany/bibliotecaumg/modelo/Rol.class
+com/mycompany/bibliotecaumg/controlador/LibroContoller.class
+com/mycompany/bibliotecaumg/controlador/conexion/Interface$CrudInterface.class
+com/mycompany/bibliotecaumg/modelo/Libro.class
+com/mycompany/bibliotecaumg/controlador/conexion/connection.class
+com/mycompany/bibliotecaumg/modelo/Usuario.class
+com/mycompany/bibliotecaumg/controlador/conexion/Interface.class
